@@ -7,7 +7,7 @@
 - 🛠️ Fullstack Developer with 3+ years of experience
 - 🎮 GameDev enthusiast, Godot lover
 - 🎯 Using AI as a booster - not as a crutch
-- 💼 Open to now job opportunities
+- 💼 Open to new job opportunities
 - 📩 Contact me: [Gmail](mailto:leonardogarcarr23@gmail.com)
 
 ---
