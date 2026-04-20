@@ -1,15 +1,77 @@
-# 💫 About Me:
-⚡ Just a dev
+# Hi, I'm **Leonardo García**
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardog01) 
+### 🧑‍💻 About Me
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-A950FF?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codevby&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=codevby&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codevby&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🛠️ Fullstack Developer with 3+ years of experience
+- 🎮 GameDev enthusiast, Godot lover
+- 🎯 Using AI as a booster - not as a crutch
+- 💼 Open to now job opportunities
+- 📩 Contact me: [Gmail](mailto:leonardogarcarr23@gmail.com)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🤖 AI-Augmented Developer
+
+⚡Human-Centric AI Engineering
+
+> "A brush doesn't paint the masterpiece, but in the hands of an artist, it redefines what's possible."
+
+- 🕹️ Strategic Direction: I architect the logic and business rules. I leverage AI as an execution engine to transform concepts into functional prototypes with superior velocity.
+
+- 🔬 Code Curatorship: I apply rigorous technical judgment to every generated line. AI proposes, but my review ensures security, scalability, and alignment with the project's specific context.
+
+- 🚀 Agile Development Cycles: I maximize technical output by integrating AI tools for intelligent debugging and exhaustive exploration of alternative solutions in record time.
+
+- 📚 Augmented Mentorship: I use large language models to dissect complex concepts and deep-dive into new technologies, turning AI into a high-level engineering tutor.
+
+---
+
+### 📫 How to reach me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardog01/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardogarcarr23@gmail.com)
+
+---
+
+### 🛠️ Tech Stack and Skills
+
+##### 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+
+##### ⚙️ Backend
+
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+##### 🗃️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+##### 🎮 GameDev
+
+![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white) ![GameMakerStudio](https://img.shields.io/badge/GameMaker_Studio-%23E60000.svg?style=for-the-badge&logo=gamemaker-studio&logoColor=white)
+
+##### 🤖 AI
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-282828?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=white) ![PromptEngineering](https://img.shields.io/badge/Prompt_Engineering-00aacc?style=for-the-badge&logo=prompt-engineer&logoColor=white)
+
+##### 🧷 Tools and Platforms
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-%231572B6.svg?style=for-the-badge&logo=cursor&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project Name             | Description                    | Stack                          | Link                                     |
+| ------------------------ | ------------------------------ | ------------------------------ | ---------------------------------------- |
+| MyParadaysTravel website | Vacation travel agency website | Angular • Express.js • MongoDB | [Website]: https://myparadaystravel.com/ |
+
+---
+
+### 🤝 Contact me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardog01/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardogarcarr23@gmail.com)
+
+🌟 Let's create someting amazing!
