@@ -1,12 +1,12 @@
-# Hi, I'm **Leonardo García**
+# Hi, I'm **Leonardo García** 👋
 
 ---
 
 ### 🧑‍💻 About Me
 
 - 🛠️ Fullstack Developer with 3+ years of experience
-- 🎮 GameDev enthusiast, Godot lover
-- 🎯 Using AI as a booster - not as a crutch
+- 🎮 GameDev enthusiast & Godot lover
+- 🎯 Using AI as a booster — not as a crutch
 - 💼 Open to new job opportunities
 - 📩 Contact me: [Gmail](mailto:leonardogarcarr23@gmail.com)
 
@@ -14,23 +14,14 @@
 
 ### 🤖 AI-Augmented Developer
 
-⚡Human-Centric AI Engineering
+#### ⚡ Human-Centric AI Engineering
 
-> "A brush doesn't paint the masterpiece, but in the hands of an artist, it redefines what's possible."
+> **_"A brush doesn't paint the masterpiece, but in the hands of an artist, it redefines what's possible."_**
 
-- 🕹️ Strategic Direction: I architect the logic and business rules. I leverage AI as an execution engine to transform concepts into functional prototypes with superior velocity.
-
-- 🔬 Code Curatorship: I apply rigorous technical judgment to every generated line. AI proposes, but my review ensures security, scalability, and alignment with the project's specific context.
-
-- 🚀 Agile Development Cycles: I maximize technical output by integrating AI tools for intelligent debugging and exhaustive exploration of alternative solutions in record time.
-
-- 📚 Augmented Mentorship: I use large language models to dissect complex concepts and deep-dive into new technologies, turning AI into a high-level engineering tutor.
-
----
-
-### 📫 How to reach me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardog01/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardogarcarr23@gmail.com)
+- 🕹️ **Strategic Direction:** I architect the logic and business rules. I leverage AI as an execution engine to transform concepts into functional prototypes with superior velocity.
+- 🔬 **Code Curatorship:** I apply rigorous technical judgment to every generated line. AI proposes, but my review ensures security, scalability, and alignment with the project's specific context.
+- 🚀 **Agile Development Cycles:** I maximize technical output by integrating AI tools for intelligent debugging and exhaustive exploration of alternative solutions in record time.
+- 📚 **Augmented Mentorship:** I use large language models to dissect complex concepts and deep-dive into new technologies, turning AI into a high-level engineering tutor.
 
 ---
 
@@ -64,14 +55,14 @@
 
 ### 🚀 Featured Projects
 
-| Project Name             | Description                    | Stack                          | Link                                     |
-| ------------------------ | ------------------------------ | ------------------------------ | ---------------------------------------- |
-| MyParadaysTravel website | Vacation travel agency website | Angular • Express.js • MongoDB | [Website]: https://myparadaystravel.com/ |
+| Project Name     | Description                    | Stack                          | Link                                           |
+| :--------------- | :----------------------------- | :----------------------------- | :--------------------------------------------- |
+| MyParadaysTravel | Vacation travel agency website | Angular • Express.js • MongoDB | [Visit Website](https://myparadaystravel.com/) |
 
 ---
 
-### 🤝 Contact me:
+### 🤝 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardog01/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardogarcarr23@gmail.com)
 
-🌟 Let's create someting amazing!
+🌟 Let's create something amazing!
