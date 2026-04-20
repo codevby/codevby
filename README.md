@@ -53,7 +53,7 @@
 
 ##### 🧷 Tools and Platforms
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-%231572B6.svg?style=for-the-badge&logo=cursor&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-%231572B6.svg?style=for-the-badge&logo=cursor&logoColor=white) ![VisualParadigm](https://img.shields.io/badge/Visual_Paradigm-%230A1C28.svg?style=for-the-badge&logo=visual-paradigm&logoColor=white)
 
 ---
 
