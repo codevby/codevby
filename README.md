@@ -27,7 +27,7 @@
 
 ### 🛠️ Tech Stack and Skills
 
-##### 🎨 UX/UX and Graphic Design
+##### 🎨 UX/UI and Graphic Design
 
 ![Figma](https://img.shields.io/badge/Figma-%23F44E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![adobeillustrator](https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
