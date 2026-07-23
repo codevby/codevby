@@ -62,6 +62,8 @@
 | Project Name     | Description                    | Stack                          | Link                                           |
 | :--------------- | :----------------------------- | :----------------------------- | :--------------------------------------------- |
 | MyParadaysTravel | Vacation travel agency website | Angular • Express.js • MongoDB | [Visit Website](https://myparadaystravel.com/) |
+| :--------------- | :----------------------------- | :----------------------------- | :--------------------------------------------- |
+| LeadingIt | Personalized CRM for MyParadays Travel Agency | Angular • PrimeNG • Express.js • MongoDB | [Visit Website](https://admin.myparadaystravel.net/) |
 
 ---
 
